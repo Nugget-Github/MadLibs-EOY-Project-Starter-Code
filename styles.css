@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    font-family: 'Shizuru', cursive;
+    color:cyan;
+    
+}
+
+.story {
+  
+   
+    padding: 10px;
+    color:white;
+    font-size:40px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.directions-container {
+   color:white;
+font-family: 'Akaya Telivigala', cursive;
+    font-size:16px;
+}
+
+.stories-ticker {
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-image: url("https://as2.ftcdn.net/v2/jpg/01/90/76/19/1000_F_190761933_VO1L2nFC2pmSNyesT4rGHax22544vREG.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h2{
+    font-family: 'Shizuru', cursive;
+    color:white;
+}
+
+button{
+    font-family: 'Akaya Telivigala', cursive;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    font-size:18px;
+}
